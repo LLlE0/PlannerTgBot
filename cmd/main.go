@@ -17,7 +17,6 @@ func main() {
 	} else {
 		log.Print("Successfully created a handler")
 	}
-
 }
 
 // handle config file
